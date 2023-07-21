@@ -1,0 +1,10 @@
+Requisitos.txt
+*.idea
+*.sqlite3
+*pyc
+.DS_Store
+media
+.env
+static
+venv
+manage.py
